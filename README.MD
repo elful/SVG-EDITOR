@@ -1,6 +1,6 @@
 # SVG Editor
 
-The SVG Editor allows the administrator to create, manage and distribute floor plans. Those are the equivalent of Google Maps but for indoor localization.  
+The SVG Editor allows the administrator to create, manage and distribute floor plans. Those are the equivalent of Google Maps for indoor localization.  
 The file format is SVG. The editor allows the user to add active elements like:  
 * LocaLed - Infra Red based bulbs used for indoor localization via an Wearable IR detector
 * LocaBeacon - Bluetooh Smart Beacon that is used for indoor positioning  
