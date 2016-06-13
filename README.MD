@@ -20,7 +20,10 @@ The application is written in JavaScript and is served directly from CouchDB. Th
 
 # Integration with other systems
 
-`TODO`
+This project is based on:
+- [X] http://gojs.net/latest/index.html
+- [X] http://www.draw2d.org/draw2d/home/index.html
+- [X] http://knsv.github.io/mermaid/index.html
 
 # References
 
